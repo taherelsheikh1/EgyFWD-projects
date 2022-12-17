@@ -1,0 +1,9 @@
+MCAL/DIO/DIO.d MCAL/DIO/DIO.o: ../MCAL/DIO/DIO.c ../MCAL/DIO/../DIO/DIO.h \
+ ../UTILITIES/../UTILITIES/Registers.h \
+ ../UTILITIES/../UTILITIES/../UTILITIES/types.h
+
+../MCAL/DIO/../DIO/DIO.h:
+
+../UTILITIES/../UTILITIES/Registers.h:
+
+../UTILITIES/../UTILITIES/../UTILITIES/types.h:
