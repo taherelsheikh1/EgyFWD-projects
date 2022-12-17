@@ -1,0 +1,2 @@
+﻿application.obj : error LNK2019: unresolved external symbol delay referenced in function appstart
+F:\Payment app\payapplast\x64\Debug\payapplast.exe : fatal error LNK1120: 1 unresolved externals

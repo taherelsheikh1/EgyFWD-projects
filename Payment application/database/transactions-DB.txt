@@ -1,0 +1,46 @@
+
+#########################
+Transaction Date:11/11/2022
+Transaction Amount:1000.00
+Transaction State:APPROVED
+Terminal Max Amount:5000.00
+Cardholder Name:taherelsayedelsheikh
+Pan:1313131313131313
+Card Expiration Date:11/25
+#########################
+#########################
+Transaction Date:11/11/2022
+Transaction Amount:3000.00
+Transaction State:DECLINED_INSUFFECIENT_FUND
+Terminal Max Amount:5000.00
+Cardholder Name:taherelsayedelsheikh
+Pan:1414141414141414
+Card Expiration Date:11/25
+#########################
+#########################
+Transaction Date:11/11/2022
+Transaction Amount:1000.00
+Transaction State:FRAUD_CARD
+Terminal Max Amount:5000.00
+Cardholder Name:taherelsayedelsheikh
+Pan:1231233123112312
+Card Expiration Date:11/25
+#########################
+#########################
+Transaction Date:11/11/2022
+Transaction Amount:1000.00
+Transaction State:DECLINED_STOLEN_CARD
+Terminal Max Amount:5000.00
+Cardholder Name:taherelsayedelsheikh
+Pan:2323232323232323
+Card Expiration Date:11/25
+#########################
+#########################
+Transaction Date:11/11/2022
+Transaction Amount:1000.00
+Transaction State:DECLINED_STOLEN_CARD
+Terminal Max Amount:5000.00
+Cardholder Name:TAHERELSAYEDELSHEIKH
+Pan:2323232323232323
+Card Expiration Date:11/25
+#########################
